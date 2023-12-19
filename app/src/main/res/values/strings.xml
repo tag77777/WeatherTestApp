@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeatherTestApp</string>
+
+    <string name="n_wind">%dm/s N</string>
+    <string name="ni_wind">%dm/s NI</string>
+    <string name="i_wind">%dm/s I</string>
+    <string name="zi_wind">%dm/s ZI</string>
+    <string name="z_wind">%dm/s Z</string>
+    <string name="zw_wind">%dm/s ZW</string>
+    <string name="w_wind">%dm/s W</string>
+    <string name="nw_wind">%dm/s NW</string>
+    <string name="unknown_wind">%dm/s</string>
+
+    <string name="degrees_fahrenheit">%s\u2109</string>
+    <string name="degrees_celsius">%s\u2103</string>
+
+    <string name="it_feels_like">It feels like</string>
+    <string name="humidity">%s%%</string>
+    <string name="place_of_forecast">Place of forecast</string>
+    <string name="to_favorites">To favorites</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="wind">Wind</string>
+    <string name="humidity_content_description">Humidity</string>
+    <string name="forecast_for_day">forecast for day</string>
+    <string name="pressure">Pressure</string>
+    <string name="try_again">Try again</string>
+    <string name="exit">Exit</string>
+    <string name="parsing_error">Parsing error.</string>
+    <string name="server_error_cod">Server Error. Cod:%d</string>
+    <string name="connection_error">Connection error.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="remove">remove</string>
+    <string name="city_name">City name</string>
+    <string name="quite_button">quite button</string>
+    <string name="favorites_list_button">favorites list button</string>
+    <string name="favorites">Favorites</string>
+
+
+</resources>
